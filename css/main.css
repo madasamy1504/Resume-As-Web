@@ -1,0 +1,149 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 760px;
+  height: 1025px;
+  justify-content: center;
+  border: solid;
+  border-color: #313c4e;
+  margin: auto;
+  font-family: Arial;
+  background-image: url("image/resume.jpg");
+}
+#header {
+  background-color: #313c4e;
+}
+.name {
+  padding-top: 45px;
+  padding-right: 40px;
+  padding-bottom: 40px;
+  padding-left: 40px;
+  width: 550px;
+}
+.name h1 {
+  color: #fff;
+  font-size: 35px;
+}
+.name h4 {
+  color: #419195;
+  padding-bottom: 20px;
+}
+.name p {
+  color: white;
+  word-break: break-all;
+  width: 600px;
+  text-align: justify;
+}
+#contacts {
+  background-color: #222a33;
+  color: white;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+#contacts i {
+  margin-right: 10px;
+}
+#contacts a {
+  margin-right: 20px;
+}
+#image img {
+  margin-top: 70px;
+  margin-right: 50px;
+  height: 100px;
+  width: 100px;
+}
+#contacts a {
+  color: white;
+}
+.spanspace span {
+  padding-left: 50px;
+  display: inline-block;
+}
+#education {
+  padding: 30px 40px 10px 30px;
+}
+#workexperience {
+  padding: 15px 40px 10px 30px;
+}
+#softskills {
+  padding: 30px 40px 10px 30px;
+}
+#certificates {
+  padding: 15px 40px 10px 30px;
+}
+#languages {
+  padding: 15px 40px 10px 30px;
+}
+#interests {
+  padding: 15px 40px 10px 30px;
+}
+#personalprojects {
+  padding: 15px 40px 10px 30px;
+}
+h4 {
+  padding-top: 10px;
+  padding-bottom: 4px;
+}
+.contenthead3 p {
+  padding-bottom: 5px;
+}
+#workexperience ul {
+  padding: 10px 20px 10px 20px;
+}
+#right h3 {
+  padding-bottom: 10px;
+}
+#personalprojects ul {
+  padding-left: 20px;
+  padding-bottom: 10px;
+}
+#personalprojects p {
+  padding-bottom: 10px;
+}
+#certificates p {
+  padding-top: 10px;
+}
+#certificates h3 {
+  padding-bottom: 0;
+}
+.content-box1 {
+  border: 0px solid white;
+  width: 35px;
+  background-color: #989da6;
+}
+.contenthead1 h3 {
+  color: #449399;
+  text-decoration: underline 3px;
+}
+.contenthead2 h4 {
+  font: bold;
+}
+span {
+  color: #2fc1cc;
+  font-size: 15px;
+}
+#head-content {
+  display: flex;
+}
+#leftright {
+  display: flex;
+  width: 765px;
+  flex-wrap: nowrap;
+  height: 787px;
+}
+#leftside {
+  height: 800px;
+  width: 350px;
+  height: 787px;
+}
+#right {
+  height: 787px;
+  margin-left: 0px;
+  padding-left: 0;
+}
+.fc{
+  display: flex;
+}
+.fi2{
+  padding-left: 30px;
+}

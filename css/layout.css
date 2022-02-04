@@ -1,0 +1,331 @@
+*{
+box-sizing: border-box;
+}
+body{
+ /*background-image: url(../image/resume.jpg);*/
+ background-repeat: no-repeat;
+ background-position: center top;
+ font-family: Arial, Helvetica, sans-serif;
+}
+.image{
+  margin-left: 1px;
+  margin-right: 10px;
+}
+.container{
+  
+  width: 1208px;
+  height:100%;
+  margin-left:auto;
+  margin-right:auto;
+  /*border: solid yellow 2px;*/
+  
+}
+.header{
+  height: 258px;
+  background-color: #313c4e;
+}
+.name{
+  padding-top: 42px;
+  padding-bottom: 31px;
+  color: white;
+}
+.name h1{
+font-size: 46px;
+font-family: 'Lobster', cursive;
+}
+.name h4{
+  font-size: 22px;
+  margin-top: 5px;
+  color: #428b91;
+}
+.name p{
+  font-size: 17px;
+  margin-top: 20px;
+  line-height: 24px;
+  word-spacing: 2px;
+}
+.fi img{
+  width: 100%;
+  height:100%;
+  padding-top: 35px;
+}
+
+.contact{
+  background-color: #222a33;
+  height: 61px;
+}
+.contact i{
+  color: aliceblue;
+  padding-right: 10px;
+}
+.fi-m{
+  padding-top: 21px;
+  padding-right: 29px;
+  padding-bottom: 21px;
+  
+}
+.fi-t{
+  padding-top: 21px;
+  padding-right: 29px;
+  
+}
+.fi-l{
+  padding-top: 21px;
+ 
+}
+.fi-m a{
+  color:white;
+}
+.fi-t a{
+  color:white;
+}
+.fi-l a{
+  color:white;
+}
+.education {
+  padding: 30px 40px 10px 3px;
+}
+#workexperience {
+  padding: 47px 40px 10px 1px;
+}
+#softskills {
+  padding: 30px 40px 10px 1px;
+}
+#personalprojects {
+  padding: 0px 40px 10px 0px;
+  margin-top: 27px;
+  
+}
+#certificates{
+  padding-top: 20px;
+}
+#languages{
+  padding-top: 38px;
+}
+#interests{
+  padding-top: 40px;
+}
+
+h4 {
+  padding-top: 23px;
+  font-weight: bold;
+  font-size: 19px;
+}
+.contenthead3 p {
+  padding-top: 10px;
+  font-size: 15px;
+}
+.contenthead4{
+  display: flex;
+}
+.y{
+  padding-top: 10px;
+  font-size: 15px;
+  color: #449399;
+}
+.cgpa{
+  padding-left: 233px;
+  padding-top: 15px;
+  color: #449399;
+  font-size: 17px;
+}
+.hsc{
+  padding-top: 9px;
+}
+#workexperience{
+  padding-top: 34px;
+}
+#workexperience ul {
+  padding: 10px 20px 10px 20px;
+}
+.workul ul{
+  font-size: 18px;
+  margin-top: -1px;
+  line-height: 30px;
+  width: 500px;
+}
+.hvac{
+  margin-top: -5px;
+}
+#button{
+  padding-top: 26px;
+}
+#button button{
+  padding: 12px;
+  font-size: 14px;
+  border: none;
+  background-color: #989da6;
+  border-radius: 40px;
+  margin-bottom: 16px;
+  margin-right: 16px;
+}
+
+.content-box1 {
+
+  border: 0px solid white;
+  width: 35px;
+  background-color: #989da6;
+}
+.contenthead1 h3 {
+  color: #449399;
+  text-decoration: underline 3px;
+  font-size: 23px;
+}
+.contenthead2 h4 {
+  font: bold;
+}
+.span {
+  color: #449399;
+  font-size: 19px;
+  margin-top: -12px;
+}
+.span1 {
+  color: #449399;
+  font-size: 19px;
+  margin-top: 3px;
+}
+.par p{
+  padding-top: 25px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.para ul{
+  padding: 10px 10px 10px 24px;
+  font-size: 17px;
+}
+
+.para1 ul{
+  padding: 11px 10px 10px 24px;
+  font-size: 17px;
+}
+.par1 p{
+  padding-top: 16px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.paraheat{
+padding-top: 25px;
+font-size: 20px;
+font-weight: bold;
+}
+.parades{
+padding-bottom: 0px;
+font-size: 17px;
+padding-top: 5px;
+
+}
+.parahead{
+  padding-top: 29px;
+  font-size: 20px;
+  font-weight: bold;
+  }
+  .paraint{
+    padding-top: 3px;
+    padding-bottom: 50px;
+  }
+.fi1{
+  padding-top: 20px;
+}
+.fi2 p{
+  padding-top: 24px;
+  padding-left: 149px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.fi2 span{
+font-size: 16px;
+display: inline-block;
+padding-top: 5px;
+padding-left: 150px;
+}
+.lan1 span{
+display: inline-block;
+padding-top: 5px;
+font-size: 16px;
+ 
+}
+.lan span{
+padding-top: 10px;
+  font-size: 16px;
+  
+}
+.lan1 p{
+  padding-top: 2px;
+  font-size: 21px;
+  font-weight: bold;
+}
+.lan p{
+  padding-top: 38px;
+  font-size: 23px;
+  padding-bottom: 5px;
+  font-weight: bold;
+}
+#paraint{
+  padding-top: 31px;
+  padding-bottom: 85px;
+}
+#paraint button{
+  padding:10px;
+  font-size: 14px;
+  border: none;
+  background-color: #989da6;
+  border-radius: 40px;
+  margin-bottom: 16px;
+  margin-right: 16px;
+}
+
+
+
+
+
+
+
+
+.jc{
+  justify-content: center;
+}
+.fc{
+  display: flex;
+}
+.fi{
+  
+  padding-left: 37px;
+  
+}
+.col-1{
+  width: 8.33%;
+}
+.col-2{
+  width: 16.66%;
+}
+.col-3{
+  width: 25%;
+}
+.col-4{
+  width: 33.33%;
+}
+.col-5{
+  width: 41.66%;
+}
+.col-6{
+  width: 50%;
+}
+.col-7{
+  width: 58.33%;
+}
+.col-8{
+  width: 66.66%;
+}
+.col-9{
+  width: 75%;  
+}
+.col-10{
+  width: 83.33%;
+}
+.col-11{
+  width: 91.66%;
+}
+.col-12{
+  width: 100%;
+}
+

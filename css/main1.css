@@ -1,0 +1,135 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  line-height: 40px;
+  color: black;
+  font-weight: 700;
+}
+.left h1 {
+  font-size: 40px;
+  font-weight: 700;
+  font-family: "Monoton", cursive;
+  padding-bottom: 10px;
+}
+.left a {
+  color: white;
+  text-decoration: none;
+  padding-left: 5px;
+}
+button {
+  padding: 10px;
+  border: solid #2fc1cc 3px;
+  /*border-color: orange;*/
+  border-radius: 6px;
+}
+.col-1 {
+  width: 8.33%;
+}
+.col-2 {
+  width: 16.66%;
+}
+.col-3 {
+  width: 25%;
+}
+.col-4 {
+  width: 33.33%;
+}
+.col-5 {
+  width: 41.66%;
+}
+.col-6 {
+  width: 50%;
+}
+.col-7 {
+  width: 58.33%;
+}
+.col-8 {
+  width: 66.66%;
+}
+.col-9 {
+  width: 75%;
+}
+.col-10 {
+  width: 83.33%;
+}
+.col-11 {
+  width: 91.66%;
+}
+.col-12 {
+  width: 100%;
+}
+.container {
+  border: solid 5px #2d3e50;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 30px;
+}
+.container:hover {
+  box-shadow: aqua;
+}
+.fc {
+  display: flex;
+}
+.left {
+  padding-left: 40px;
+  padding-right: 40px;
+  background-color: #2d3e50;
+  color: white;
+  padding-top: 30px;
+}
+.right {
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.left h4 {
+  margin-top: 30px;
+  font-family: "Roboto Mono", monospace;
+}
+ul {
+  margin-left: 18px;
+}
+
+.left-4 ul li {
+  color: #2fc1cc;
+}
+.right ul li {
+  color: red;
+  list-style: square;
+}
+.right ul li a {
+  color: black;
+  text-decoration: none;
+}
+
+hr {
+  margin-top: 10px;
+  border: none;
+  height: 3px;
+  background: #212121;
+}
+.left hr {
+  margin-top: 10px;
+  border: none;
+  height: 3px;
+  background: white;
+}
+.right h4 {
+  font-size: 25px;
+  color: #2d3e50;
+}
+.right hr {
+  background-color: #2fc1cc;
+}
+.padding {
+  display: inline-block;
+  padding-left: 161px;
+  color: #2fc1cc;
+}
+.margin {
+  margin-top: 20px;
+}
+right-1 p {
+  color: blueviolet;
+  font-weight: bolder;
+}
